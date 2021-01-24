@@ -1,1 +1,1 @@
-# Fractal-rendering
+# Fractal Rendering
